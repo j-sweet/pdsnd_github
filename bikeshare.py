@@ -11,6 +11,8 @@ import calendar
 #######################################
 #note 1/1/2019 - Austin to be added 3Q 2019
 
+#note 1/1/2019 - San Jose to be added 4Q 2019
+
 
 #######################################
 
