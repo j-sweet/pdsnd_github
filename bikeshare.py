@@ -9,6 +9,13 @@ import statistics
 import calendar
 
 #######################################
+#note 1/1/2019 - Austin to be added 3Q 2019
+
+#note 1/1/2019 - San Jose to be added 4Q 2019
+
+#note 1/1/2019 - Vancouver to be added 1Q 2020
+
+#######################################
 
 CITY_DATA = {'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
