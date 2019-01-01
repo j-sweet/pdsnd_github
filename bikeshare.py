@@ -13,6 +13,7 @@ import calendar
 
 #note 1/1/2019 - San Jose to be added 4Q 2019
 
+#note 1/1/2019 - Vancouver to be added 1Q 2020
 
 #######################################
 
